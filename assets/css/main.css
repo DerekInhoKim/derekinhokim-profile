@@ -2488,8 +2488,6 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		height: 3rem;
-		width: 3rem;
 	}
 
 		.icon:before {
@@ -2678,6 +2676,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		align-items: center;
 	}
 
 		ul.actions li {
