@@ -2488,6 +2488,8 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		height: 3rem;
+		width: 3rem;
 	}
 
 		.icon:before {
