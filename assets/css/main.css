@@ -336,6 +336,18 @@ input, select, textarea {
 	}
 
 /* Row */
+	.inner_contianer {
+		display: flex;
+	}
+
+	.image_container {
+		height: 40rem;
+		width: 40rem;
+	}
+
+	.profile_image{
+		clip-path: circle(50px at 0 100px);
+	}
 
 	.row {
 		display: flex;
