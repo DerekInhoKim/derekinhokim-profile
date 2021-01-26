@@ -2321,6 +2321,7 @@ input, select, textarea {
 		margin: 0 0 0.7em 0;
 		display: block;
 		font-size: 1.1em;
+		cursor: default;
 	}
 
 	input[type="text"],
